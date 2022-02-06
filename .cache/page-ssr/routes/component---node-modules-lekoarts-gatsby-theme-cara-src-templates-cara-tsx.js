@@ -4766,9 +4766,7 @@ function MDXContent(_ref) {
   return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)(MDXLayout, Object.assign({}, layoutProps, props, {
     components: components,
     mdxType: "MDXLayout"
-  }), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)("h2", null, `About`), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)("blockquote", null, (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)("p", {
-    parentName: "blockquote"
-  }, `The English language can not fully capture the depth and complexity of my thoughts. So I'm incorporating Emoji into my speech to better express myself. Winky face.`)), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)("p", null, `You know the way you feel when you see a picture of two otters holding hands? That's how you're gonna feel every day. My mother cried the day I was born because she knew she’d never be prettier than me. You should make me your campaign manager. I was born for politics. I have great hair and I love lying. Captain? The kids want to know where Paulie the Pigeon is. I told them he got sucked up into an airplane engine, is that all right?`));
+  }), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)("h2", null, `About`));
 }
 ;
 MDXContent.isMDXComponent = true;
@@ -4815,16 +4813,7 @@ function MDXContent(_ref) {
   return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)(MDXLayout, Object.assign({}, layoutProps, props, {
     components: components,
     mdxType: "MDXLayout"
-  }), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)("h2", null, `Get in touch`), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)("p", null, `Visit `, (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)("a", {
-    parentName: "p",
-    "href": "https://www.lekoarts.de?utm_source=cara&utm_medium=Starter"
-  }, `my website`), ` or find me on other platforms: `, (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)("a", {
-    parentName: "p",
-    "href": "https://www.twitter.com/lekoarts_de"
-  }, `Twitter`), ` & `, (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)("a", {
-    parentName: "p",
-    "href": "https://www.linkedin.com/in/lennart-joergens/"
-  }, `LinkedIn`)));
+  }), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)("h2", null, `Contact`), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)("p", null, `Contact`));
 }
 ;
 MDXContent.isMDXComponent = true;
@@ -4871,10 +4860,7 @@ function MDXContent(_ref) {
   return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)(MDXLayout, Object.assign({}, layoutProps, props, {
     components: components,
     mdxType: "MDXLayout"
-  }), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)("h1", null, `Hi, I'm Your Name`), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)("p", null, `Template by `, (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)("a", {
-    parentName: "p",
-    "href": "https://www.lekoarts.de?utm_source=cara&utm_medium=Starter"
-  }, `lekoarts.de`), ` - I write about JavaScript and React there!`));
+  }), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)("h1", null, `Carlos Alejandro Diaz Perez`));
 }
 ;
 MDXContent.isMDXComponent = true;
@@ -4929,26 +4915,14 @@ function MDXContent(_ref) {
     components: components,
     mdxType: "MDXLayout"
   }), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)("h2", null, `Projects`), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)(ProjectCard, {
-    title: "Tips & Tricks for Gatsby",
-    link: "https://www.lekoarts.de/gatsby/tips-and-tricks-for-gatsby?utm_source=cara&utm_medium=Theme",
-    bg: "linear-gradient(to right, #D4145A 0%, #FBB03B 100%)",
     mdxType: "ProjectCard"
-  }, "A collection of short, but useful quick tips shared by me and the community about Gatsby. From GraphQL over local development to deployment."), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)(ProjectCard, {
-    title: "Setting  up a yarn Workspace",
-    link: "https://www.lekoarts.de/javascript/setting-up-a-yarn-workspace-with-typescript-eslint-and-cypress?utm_source=cara&utm_medium=Theme",
-    bg: "linear-gradient(to right, #662D8C 0%, #ED1E79 100%)",
+  }), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)(ProjectCard, {
     mdxType: "ProjectCard"
-  }, "A robust solution for multi-package repositories."), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)(ProjectCard, {
-    title: "Adding a Draft Feature to Gatsby",
-    link: "https://www.lekoarts.de/garden/adding-a-draft-feature-to-gatsby?utm_source=cara&utm_medium=Theme",
-    bg: "linear-gradient(to right, #009245 0%, #FCEE21 100%)",
+  }), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)(ProjectCard, {
     mdxType: "ProjectCard"
-  }, "A solution with the createSchemaCustomization API."), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)(ProjectCard, {
-    title: "Theme UI Plugin for Figma",
-    link: "https://www.lekoarts.de/design/introducing-the-theme-ui-plugin-for-figma?utm_source=cara&utm_medium=Theme",
-    bg: "linear-gradient(to right, #D585FF 0%, #00FFEE 100%)",
+  }), (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__.mdx)(ProjectCard, {
     mdxType: "ProjectCard"
-  }, "The Theme UI plugin for Figma allows for a workflow where Theme UI is the starting point both for design & development."));
+  }));
 }
 ;
 MDXContent.isMDXComponent = true;

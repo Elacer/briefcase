@@ -1,22 +1,22 @@
 var plugins = [{
       name: 'gatsby-plugin-mdx',
-      plugin: require('C:/Users/alvar/dev/gatsby/gatsby-starter-portfolio-cara/node_modules/gatsby-plugin-mdx/gatsby-ssr'),
-      options: {"plugins":[],"lessBabel":true,"extensions":[".mdx"],"defaultLayouts":{},"gatsbyRemarkPlugins":[],"remarkPlugins":[],"rehypePlugins":[],"mediaTypes":["text/markdown","text/x-markdown"],"root":"C:\\Users\\alvar\\dev\\gatsby\\gatsby-starter-portfolio-cara","commonmark":false},
+      plugin: require('D:/Proyectos/proyectosReact/briefcase/node_modules/gatsby-plugin-mdx/gatsby-ssr'),
+      options: {"plugins":[],"lessBabel":true,"extensions":[".mdx"],"defaultLayouts":{},"gatsbyRemarkPlugins":[],"remarkPlugins":[],"rehypePlugins":[],"mediaTypes":["text/markdown","text/x-markdown"],"root":"D:\\Proyectos\\proyectosReact\\briefcase","commonmark":false},
     },{
       name: 'gatsby-plugin-react-helmet',
-      plugin: require('C:/Users/alvar/dev/gatsby/gatsby-starter-portfolio-cara/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('D:/Proyectos/proyectosReact/briefcase/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
       name: 'gatsby-plugin-theme-ui',
-      plugin: require('C:/Users/alvar/dev/gatsby/gatsby-starter-portfolio-cara/node_modules/gatsby-plugin-theme-ui/gatsby-ssr'),
+      plugin: require('D:/Proyectos/proyectosReact/briefcase/node_modules/gatsby-plugin-theme-ui/gatsby-ssr'),
       options: {"plugins":[]},
     },{
       name: 'gatsby-plugin-manifest',
-      plugin: require('C:/Users/alvar/dev/gatsby/gatsby-starter-portfolio-cara/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('D:/Proyectos/proyectosReact/briefcase/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"Cara - @lekoarts/gatsby-theme-cara","short_name":"Cara","description":"Playful and Colorful One-Page portfolio featuring Parallax effects and animations","start_url":"/","background_color":"#141821","display":"standalone","icons":[{"src":"/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}],"legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":null},
     },{
       name: 'gatsby-plugin-gatsby-cloud',
-      plugin: require('C:/Users/alvar/dev/gatsby/gatsby-starter-portfolio-cara/node_modules/gatsby-plugin-gatsby-cloud/gatsby-ssr'),
+      plugin: require('D:/Proyectos/proyectosReact/briefcase/node_modules/gatsby-plugin-gatsby-cloud/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 /* global plugins */

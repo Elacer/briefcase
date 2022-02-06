@@ -1,6 +1,6 @@
 module.exports = [{
       plugin: require('../node_modules/gatsby-plugin-mdx/gatsby-browser.js'),
-      options: {"plugins":[],"lessBabel":true,"extensions":[".mdx"],"defaultLayouts":{},"gatsbyRemarkPlugins":[],"remarkPlugins":[],"rehypePlugins":[],"mediaTypes":["text/markdown","text/x-markdown"],"root":"C:\\Users\\alvar\\dev\\gatsby\\gatsby-starter-portfolio-cara","commonmark":false},
+      options: {"plugins":[],"lessBabel":true,"extensions":[".mdx"],"defaultLayouts":{},"gatsbyRemarkPlugins":[],"remarkPlugins":[],"rehypePlugins":[],"mediaTypes":["text/markdown","text/x-markdown"],"root":"D:\\Proyectos\\proyectosReact\\briefcase","commonmark":false},
     },{
       plugin: require('../node_modules/gatsby-plugin-theme-ui/gatsby-browser.js'),
       options: {"plugins":[]},

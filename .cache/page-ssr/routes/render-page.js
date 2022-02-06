@@ -12296,7 +12296,7 @@ var plugins = [{
     "remarkPlugins": [],
     "rehypePlugins": [],
     "mediaTypes": ["text/markdown", "text/x-markdown"],
-    "root": "C:\\Users\\alvar\\dev\\gatsby\\gatsby-starter-portfolio-cara",
+    "root": "D:\\Proyectos\\proyectosReact\\briefcase",
     "commonmark": false
   }
 }, {
@@ -49518,24 +49518,24 @@ var css = function css(args) {
 /***/ }),
 
 /***/ "react-dom/server":
-/*!*******************************************************************************************************************!*\
-  !*** external "C:\\Users\\alvar\\dev\\gatsby\\gatsby-starter-portfolio-cara\\node_modules\\react-dom\\server.js" ***!
-  \*******************************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** external "D:\\Proyectos\\proyectosReact\\briefcase\\node_modules\\react-dom\\server.js" ***!
+  \***********************************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("C:\\Users\\alvar\\dev\\gatsby\\gatsby-starter-portfolio-cara\\node_modules\\react-dom\\server.js");
+module.exports = require("D:\\Proyectos\\proyectosReact\\briefcase\\node_modules\\react-dom\\server.js");
 
 /***/ }),
 
 /***/ "react":
-/*!**************************************************************************************************************!*\
-  !*** external "C:\\Users\\alvar\\dev\\gatsby\\gatsby-starter-portfolio-cara\\node_modules\\react\\index.js" ***!
-  \**************************************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** external "D:\\Proyectos\\proyectosReact\\briefcase\\node_modules\\react\\index.js" ***!
+  \******************************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("C:\\Users\\alvar\\dev\\gatsby\\gatsby-starter-portfolio-cara\\node_modules\\react\\index.js");
+module.exports = require("D:\\Proyectos\\proyectosReact\\briefcase\\node_modules\\react\\index.js");
 
 /***/ }),
 
